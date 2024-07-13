@@ -2,11 +2,11 @@
 
 ![Profile Banner](https://derakht.net/text/GitHub.jpg) <!-- Replace this with a personal banner if you have one -->
 
-## About Me
+## 👨‍💻 About Me
 
 I'm Esan, a dedicated and passionate AI strategist, researcher, and developer based in Dubai. I have a Master's degree in Information Technology and serve as the Head of Marketing for TCH, a leading brand in digital products. I contribute to product development and strategic marketing.
 
-### Master's Thesis
+### 🎓 Master's Thesis
 
 My master's thesis focused on **Path Planning for Drones using Deep Reinforcement Learning Algorithms**. I utilized various machine learning and deep learning algorithms including:
 - **DQN**
@@ -28,23 +28,21 @@ Creating engaging and informative AI courses for different audiences, from begin
 - Introduction to AI
 - Specialized AI topics for IT students and graduates
 
-### Text Alignment Application
-A right-to-left text alignment application to facilitate proper text formatting.
+### 🛠️ Additional Projects
 
-### Drone Simulator Web Application
-A web-based simulator for drone operations.
+- **Text Alignment Application:** A right-to-left text alignment application to facilitate proper text formatting.
+- **Drone Simulator Web Application:** A web-based simulator for drone operations.
+- **[DeaLinkerBot](https://t.me/DeaLinkerBot):** A Telegram mining game bot.
 
-### [DeaLinkerBot](https://t.me/DeaLinkerBot)
-A Telegram mining game bot.
+### 🌐 Web Platforms
 
-### Web Platforms
 - [Derakht.net](https://derakht.net)
 - [DeaLinker.com](https://DeaLinker.com)
 - [CollabInvent.com](https://CollabInvent.com)
 - [Mivestan.com](https://Mivestan.com) - The first online retail and wholesale store for fresh fruits, vegetables, and groceries in the Middle East. Despite significant growth, it was shut down due to the COVID-19 pandemic and economic challenges.
 - [TaminBar.com](https://TaminBar.com) - The first online wholesale store for fresh fruits, vegetables, and groceries in the Middle East. It faced similar challenges and was closed during the COVID-19 pandemic.
 
-## 🌱 Skills
+## 💡 Skills
 
 - **Programming Languages:** JavaScript, Python, Node.js
 - **Frameworks & Libraries:** React, Express
@@ -53,7 +51,7 @@ A Telegram mining game bot.
 - **AI & Machine Learning:** TensorFlow, OpenAI API
 - **Other:** Google Calendar API, JWT Authentication
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![Esan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsanRAHIMI&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsanRAHIMI&layout=compact&theme=radical)
