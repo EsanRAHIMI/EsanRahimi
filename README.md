@@ -8,12 +8,11 @@ I'm Ehsan Rahimi, a dedicated AI strategist, researcher, and developer based in 
 
 ## 🎓 Education
 
-- **Master's in Management Information Systems** - University of Eyvanekey (2020 - 2023)
+- **Master's in Management Information Systems** - University of Eyvanekey
   - Thesis: "Path Planning for Drones using Deep Reinforcement Learning Algorithms"
   - Algorithms Used: DQN, DRQN, ADSA, QR_DRQN
 
-- **Bachelor of Engineering in Computer Software Engineering** - Farahmand Institute of Higher Education (2017 - 2019)
-- **Associate's degree in Computer Software Engineering** - Farahmand Institute of Higher Education (2015 - 2017)
+- **Bachelor of Engineering in Computer Software Engineering** - Farahmand Institute of Higher Education
 
 ## 🔭 Current Projects
 
@@ -60,7 +59,7 @@ Creating engaging and informative AI courses for different audiences, from begin
 ## 📫 How to Reach Me
 
 - **Email:** ehsanrahimi@live.com
-- **LinkedIn:** [Ehsan Rahimi](https://www.linkedin.com/in/esanrahimi)
+- **LinkedIn:** [Esan RAHIMI](https://www.linkedin.com/in/esanrahimi)
 - **Twitter:** [@EsanRAHIMI](https://twitter.com/EsanRahimi)
 - **YouTube:** [SiliconTalk](https://www.youtube.com/@SiliconTalk)
 
@@ -75,8 +74,6 @@ Creating engaging and informative AI courses for different audiences, from begin
 
 - Launching the YouTube channel @SiliconTalk for AI-related discussions.
 - Strengthening and completing the DeaLinker.com platform.
-- Studying English daily to pass the IELTS exam by September 2024 with a score of 7.
-- Applying for a Ph.D. in artificial intelligence in the USA, seeking funding.
 
 ## 💬 Let's Connect!
 
