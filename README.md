@@ -36,7 +36,7 @@ Creating engaging and informative AI courses for different audiences, from begin
 
 ## 📫 How to Reach Me
 
-- **Email:** ehsan.rahimi@example.com
+- **Email:** EhsanRahimi@Live.com
 - **LinkedIn:** [Ehsan Rahimi](https://www.linkedin.com/in/ehsanrahimi)
 - **Twitter:** [@EhsanRahimi](https://twitter.com/EhsanRahimi)
 - **YouTube:** [SiliconTalk](https://www.youtube.com/channel/UCsilicontalk)
@@ -55,4 +55,4 @@ Feel free to reach out if you want to collaborate on projects, discuss technolog
 
 ---
 
-*This README was generated with ❤️ by Ehsan Rahimi.*
+*This README was generated with ❤️ by Esan.*
