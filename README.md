@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Ehsan Rahimi, a dedicated and passionate software developer and AI enthusiast living in Dubai. I have a Master's degree in Information Technology, and I'm currently the Head of Media at TCH, where I work on innovative AI projects and marketing strategies.
+I'm Ehsan Rahimi, a dedicated and passionate software developer and AI enthusiast based in Dubai. I have a Master's degree in Information Technology and serve as the Head of Marketing for TCH, a leading brand in digital products. I contribute to product development and strategic marketing.
 
 ## 🔭 Current Projects
 
@@ -20,17 +20,6 @@ Creating engaging and informative AI courses for different audiences, from begin
 - Introduction to AI
 - Specialized AI topics for IT students and graduates
 
-### [TCH Smart Devices](https://www.tchfit.com)
-Working on the marketing and product development of TCH's innovative smart devices, including smartwatches and Bluetooth handsfree devices.
-
-**Products:**
-- Z10 Smartwatch
-- Z40 Smartwatch
-- N23 Bluetooth Handsfree
-- T60 Bluetooth Handsfree
-- S33 Bluetooth Handsfree
-- L30 Bluetooth Handsfree
-
 ## 🌱 Skills
 
 - **Programming Languages:** JavaScript, Python, Node.js
@@ -39,6 +28,11 @@ Working on the marketing and product development of TCH's innovative smart devic
 - **Tools & Platforms:** Visual Studio, Git, GitHub, Docker
 - **AI & Machine Learning:** TensorFlow, OpenAI API
 - **Other:** Google Calendar API, JWT Authentication
+
+## 📈 GitHub Stats
+
+![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsanRAHIMI&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsanRAHIMI&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 
@@ -52,10 +46,6 @@ Working on the marketing and product development of TCH's innovative smart devic
 - Successfully launched the Jarvis Intelligent Task Planner.
 - Developed and marketed multiple innovative products at TCH.
 - Created engaging AI courses for a diverse audience on YouTube.
-
-## 📈 GitHub Stats
-
-![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsanRAHIMI&show_icons=true&theme=radical)
 
 ## 💬 Let's Connect!
 
