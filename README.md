@@ -16,12 +16,12 @@ I'm Esan Rahimi, a dedicated AI strategist, researcher, and developer based in D
 
 ## 🔭 Current Projects
 
-### [Tell Me Intelligent Task Planner](https://github.com/EsanRAHIMI/Tell-Me)
+### [Tell Me Intelligent Task Planner](https://github.com/EsanRAHIMI/TellMeo)
 An intelligent task planner and management tool with a voice chatbot interface. This project integrates Google Calendar, allows task management, and provides real-time reminders.
 
 **Technologies:** React, Node.js, MongoDB, OpenAI API, Google Calendar API, JWT for authentication.
 
-### [SiliconTalk AI Courses](https://www.youtube.com/channel/UCsilicontalk)
+### [SiliconTalk AI Courses](https://www.youtube.com/@SiliconTalk)
 Creating engaging and informative AI courses for different audiences, from beginners to advanced learners.
 
 **Topics Covered:**
