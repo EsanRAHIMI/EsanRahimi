@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ehsan Rahimi!
 
-![Profile Banner](https://drive.google.com/file/d/1jZQKttUkbrdq6ZVhFrPY82wlEEG5ZiYg/view?usp=drive_link) <!-- Replace this with a personal banner if you have one -->
+![Profile Banner](https://drive.google.com/file/d/1jZQKttUkbrdq6ZVhFrPY82wlEEG5ZiYg/view?usp=sharing) <!-- Replace this with a personal banner if you have one -->
 
 ## About Me
 
