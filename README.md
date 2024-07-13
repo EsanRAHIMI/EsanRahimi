@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm Ehsan Rahimi, a dedicated and passionate software developer and AI enthusiast based in Dubai. I have a Master's degree in Information Technology and serve as the Head of Marketing for TCH, a leading brand in digital products. I contribute to product development and strategic marketing.
+I'm Esan, a dedicated and passionate AI strategist, researcher, and developer based in Dubai. I have a Master's degree in Information Technology and serve as the Head of Marketing for TCH, a leading brand in digital products. I contribute to product development and strategic marketing.
 
 ### Master's Thesis
 
@@ -16,7 +16,7 @@ My master's thesis focused on **Path Planning for Drones using Deep Reinforcemen
 
 ## 🔭 Current Projects
 
-### [Jarvis Intelligent Task Planner](https://github.com/EsanRAHIMI/Jarvis)
+### [Tell Me Intelligent Task Planner](https://github.com/EsanRAHIMI/Tell-Me)
 An intelligent task planner and management tool with a voice chatbot interface. This project integrates Google Calendar, allows task management, and provides real-time reminders.
 
 **Technologies:** React, Node.js, MongoDB, OpenAI API, Google Calendar API, JWT for authentication.
@@ -41,6 +41,8 @@ A Telegram mining game bot.
 - [Derakht.net](https://derakht.net)
 - [DeaLinker.com](https://DeaLinker.com)
 - [CollabInvent.com](https://CollabInvent.com)
+- [Mivestan.com](https://Mivestan.com) - The first online retail and wholesale store for fresh fruits, vegetables, and groceries in the Middle East. Despite significant growth, it was shut down due to the COVID-19 pandemic and economic challenges.
+- [TaminBar.com](https://TaminBar.com) - The first online wholesale store for fresh fruits, vegetables, and groceries in the Middle East. It faced similar challenges and was closed during the COVID-19 pandemic.
 
 ## 🌱 Skills
 
@@ -65,9 +67,10 @@ A Telegram mining game bot.
 
 ## 🚀 Achievements
 
-- Successfully launched the Jarvis Intelligent Task Planner.
+- Successfully launched the Tell Me Intelligent Task Planner.
 - Developed and marketed multiple innovative products at TCH.
 - Created engaging AI courses for a diverse audience on YouTube.
+- Founded Mivestan.com and TaminBar.com, pioneering online retail and wholesale stores for fresh produce in the Middle East.
 
 ## 💬 Let's Connect!
 
