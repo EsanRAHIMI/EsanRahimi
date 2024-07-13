@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Ehsan Rahimi, a dedicated AI strategist, researcher, and developer based in Dubai. With a Master's degree in Information Technology, I bring a wealth of experience in AI, machine learning, and software development. Currently, I serve as the Head of Media at KasraPars and am the founder of several innovative platforms.
+I'm Esan Rahimi, a dedicated AI strategist, researcher, and developer based in Dubai. With a Master's degree in Information Technology, I bring a wealth of experience in AI, machine learning, and software development. Currently, I serve as the Head of Media at KasraPars and am the founder of several innovative platforms.
 
 ## 🎓 Education
 
