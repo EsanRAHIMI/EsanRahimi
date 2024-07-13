@@ -31,7 +31,7 @@ Creating engaging and informative AI courses for different audiences, from begin
 
 ## 📈 GitHub Stats
 
-![Ehsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsanRAHIMI&show_icons=true&theme=radical)
+![Esan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsanRAHIMI&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsanRAHIMI&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
