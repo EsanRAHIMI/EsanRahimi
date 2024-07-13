@@ -6,6 +6,14 @@
 
 I'm Ehsan Rahimi, a dedicated and passionate software developer and AI enthusiast based in Dubai. I have a Master's degree in Information Technology and serve as the Head of Marketing for TCH, a leading brand in digital products. I contribute to product development and strategic marketing.
 
+### Master's Thesis
+
+My master's thesis focused on **Path Planning for Drones using Deep Reinforcement Learning Algorithms**. I utilized various machine learning and deep learning algorithms including:
+- **DQN**
+- **DRQN**
+- **ADSA**
+- **QR_DRQN**
+
 ## 🔭 Current Projects
 
 ### [Jarvis Intelligent Task Planner](https://github.com/EsanRAHIMI/Jarvis)
@@ -19,6 +27,20 @@ Creating engaging and informative AI courses for different audiences, from begin
 **Topics Covered:**
 - Introduction to AI
 - Specialized AI topics for IT students and graduates
+
+### Text Alignment Application
+A right-to-left text alignment application to facilitate proper text formatting.
+
+### Drone Simulator Web Application
+A web-based simulator for drone operations.
+
+### [DeaLinkerBot](https://t.me/DeaLinkerBot)
+A Telegram mining game bot.
+
+### Web Platforms
+- [Derakht.net](https://derakht.net)
+- [DeaLinker.com](https://DeaLinker.com)
+- [CollabInvent.com](https://CollabInvent.com)
 
 ## 🌱 Skills
 
