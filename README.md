@@ -62,8 +62,8 @@ A Telegram mining game bot.
 
 - **Email:** EhsanRahimi@Live.com
 - **LinkedIn:** [Ehsan Rahimi](https://www.linkedin.com/in/ehsanrahimi)
-- **Twitter:** [@EhsanRahimi](https://twitter.com/EhsanRahimi)
-- **YouTube:** [SiliconTalk](https://www.youtube.com/channel/UCsilicontalk)
+- **Twitter:** [@EsanRAHIMI](https://twitter.com/EsanRahimi)
+- **YouTube:** [SiliconTalk](https://www.youtube.com/@SiliconTalk)
 
 ## 🚀 Achievements
 
