@@ -4,15 +4,16 @@
 
 ## 👨‍💻 About Me
 
-I'm Esan, a dedicated and passionate AI strategist, researcher, and developer based in Dubai. I have a Master's degree in Information Technology and serve as the Head of Marketing for TCH, a leading brand in digital products. I contribute to product development and strategic marketing.
+I'm Ehsan Rahimi, a dedicated AI strategist, researcher, and developer based in Dubai. With a Master's degree in Information Technology, I bring a wealth of experience in AI, machine learning, and software development. Currently, I serve as the Head of Media at KasraPars and am the founder of several innovative platforms.
 
-### 🎓 Master's Thesis
+## 🎓 Education
 
-My master's thesis focused on **Path Planning for Drones using Deep Reinforcement Learning Algorithms**. I utilized various machine learning and deep learning algorithms including:
-- **DQN**
-- **DRQN**
-- **ADSA**
-- **QR_DRQN**
+- **Master's in Management Information Systems** - University of Eyvanekey (2020 - 2023)
+  - Thesis: "Path Planning for Drones using Deep Reinforcement Learning Algorithms"
+  - Algorithms Used: DQN, DRQN, ADSA, QR_DRQN
+
+- **Bachelor of Engineering in Computer Software Engineering** - Farahmand Institute of Higher Education (2017 - 2019)
+- **Associate's degree in Computer Software Engineering** - Farahmand Institute of Higher Education (2015 - 2017)
 
 ## 🔭 Current Projects
 
@@ -51,15 +52,15 @@ Creating engaging and informative AI courses for different audiences, from begin
 - **AI & Machine Learning:** TensorFlow, OpenAI API
 - **Other:** Google Calendar API, JWT Authentication
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 ![Esan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsanRAHIMI&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsanRAHIMI&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 
-- **Email:** EhsanRahimi@Live.com
-- **LinkedIn:** [Ehsan Rahimi](https://www.linkedin.com/in/ehsanrahimi)
+- **Email:** ehsanrahimi@live.com
+- **LinkedIn:** [Ehsan Rahimi](https://www.linkedin.com/in/esanrahimi)
 - **Twitter:** [@EsanRAHIMI](https://twitter.com/EsanRahimi)
 - **YouTube:** [SiliconTalk](https://www.youtube.com/@SiliconTalk)
 
@@ -69,6 +70,13 @@ Creating engaging and informative AI courses for different audiences, from begin
 - Developed and marketed multiple innovative products at TCH.
 - Created engaging AI courses for a diverse audience on YouTube.
 - Founded Mivestan.com and TaminBar.com, pioneering online retail and wholesale stores for fresh produce in the Middle East.
+
+## 🎯 Current Goals
+
+- Launching the YouTube channel @SiliconTalk for AI-related discussions.
+- Strengthening and completing the DeaLinker.com platform.
+- Studying English daily to pass the IELTS exam by September 2024 with a score of 7.
+- Applying for a Ph.D. in artificial intelligence in the USA, seeking funding.
 
 ## 💬 Let's Connect!
 
