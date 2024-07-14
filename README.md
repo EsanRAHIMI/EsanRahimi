@@ -6,20 +6,6 @@
 
 I'm Esan Rahimi, a dedicated AI strategist, researcher, and developer based in Dubai. With a Master's degree in Information Technology, I bring a wealth of experience in AI, machine learning, and software development. Currently, I serve as the Head of Media at TCH and am the founder of several innovative platforms.
 
-<div align="center">
-  <svg width="100" height="100">
-    <circle cx="50" cy="50" r="40" stroke="black" stroke-width="3" fill="red" />
-    <script type="text/ecmascript"><![CDATA[
-      var svg = document.querySelector('svg');
-      svg.addEventListener('mousemove', function(e) {
-        var circle = svg.querySelector('circle');
-        circle.setAttribute('cx', e.offsetX);
-        circle.setAttribute('cy', e.offsetY);
-      });
-    ]]></script>
-  </svg>
-</div>
-
 ## 🎓 Education
 
 - **Master's in Management Information Systems** - University of Eyvanekey
