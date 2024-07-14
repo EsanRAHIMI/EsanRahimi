@@ -6,6 +6,8 @@
 
 I'm Esan Rahimi, a dedicated AI strategist, researcher, and developer based in Dubai. With a Master's degree in Information Technology, I bring a wealth of experience in AI, machine learning, and software development. Currently, I serve as the Head of Media at TCH and am the founder of several innovative platforms.
 
+![Coding Animation](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
+
 ## 🎓 Education
 
 - **Master's in Management Information Systems** - University of Eyvanekey
@@ -73,6 +75,8 @@ Creating engaging and informative AI courses for different audiences, from begin
 - Developed and marketed multiple innovative products at TCH.
 - Created engaging AI courses for a diverse audience on YouTube.
 - Founded Mivestan.com and TaminBar.com, pioneering online retail and wholesale stores for fresh produce in the Middle East.
+
+![Achievement Animation](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 ## 🎯 Current Goals
 
