@@ -16,7 +16,7 @@ I'm Esan Rahimi, a dedicated AI strategist, researcher, and developer based in D
 
 ## 🔭 Current Projects
 
-### [Tell Me Intelligent Task Planner](https://github.com/EsanRAHIMI/TellMeo)
+### [Tell Meo Intelligent Task Planner](https://github.com/EsanRAHIMI/TellMeo)
 An intelligent task planner and management tool with a voice chatbot interface. This project integrates Google Calendar, allows task management, and provides real-time reminders.
 
 **Technologies:** React, Node.js, MongoDB, OpenAI API, Google Calendar API, JWT for authentication.
