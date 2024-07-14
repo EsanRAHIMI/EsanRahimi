@@ -84,7 +84,7 @@ Creating engaging and informative AI courses for different audiences, from begin
 Feel free to reach out if you want to collaborate on projects, discuss technology, or just chat!
 
 <p align="center">
-  <a href="mailto:ehsanrahimi@live.com">ehsanrahimi@live.com</a>
+  <a href="mailto:ehsanrahimi@live.com">Email me: ehsanrahimi@live.com</a>
 </p>
 
 <p align="center">
