@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-I'm Esan Rahimi, a dedicated AI strategist, researcher, and developer based in Dubai. With a Master's degree in Information Technology, I bring a wealth of experience in AI, machine learning, and software development. Currently, I serve as the Head of Media at TCH and am the founder of several innovative platforms.
+I'm Ehsan Rahimi, a dedicated AI strategist, researcher, and developer based in Dubai. With a Master's degree in Information Technology, I bring a wealth of experience in AI, machine learning, and software development. Currently, I serve as the Head of Media at KasraPars and am the founder of several innovative platforms.
 
 ## 🎓 Education
 
@@ -16,12 +16,12 @@ I'm Esan Rahimi, a dedicated AI strategist, researcher, and developer based in D
 
 ## 🔭 Current Projects
 
-### [Tell Me Intelligent Task Planner](https://github.com/EsanRAHIMI/TellMeo)
+### [Tell Me Intelligent Task Planner](https://github.com/EsanRAHIMI/Tell-Me)
 An intelligent task planner and management tool with a voice chatbot interface. This project integrates Google Calendar, allows task management, and provides real-time reminders.
 
 **Technologies:** React, Node.js, MongoDB, OpenAI API, Google Calendar API, JWT for authentication.
 
-### [SiliconTalk AI Courses](https://www.youtube.com/@SiliconTalk)
+### [SiliconTalk AI Courses](https://www.youtube.com/channel/UCsilicontalk)
 Creating engaging and informative AI courses for different audiences, from beginners to advanced learners.
 
 **Topics Covered:**
@@ -59,7 +59,7 @@ Creating engaging and informative AI courses for different audiences, from begin
 ## 📫 How to Reach Me
 
 - **Email:** ehsanrahimi@live.com
-- **LinkedIn:** [Esan RAHIMI](https://www.linkedin.com/in/esanrahimi)
+- **LinkedIn:** [Esan Rahimi](https://www.linkedin.com/in/esanrahimi)
 - **Twitter:** [@EsanRAHIMI](https://twitter.com/EsanRahimi)
 - **YouTube:** [SiliconTalk](https://www.youtube.com/@SiliconTalk)
 
@@ -84,3 +84,69 @@ Feel free to reach out if you want to collaborate on projects, discuss technolog
 ---
 
 *This README was generated with ❤️ by Esan.*
+
+---
+
+### 📊 GitHub Stats Card
+Get dynamically generated GitHub stats on your READMEs!
+
+[![Esan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsanRAHIMI)](https://github.com/EsanRAHIMI/github-readme-stats)
+
+#### Customizing Stats Card
+You can customize the appearance of all your cards however you wish with URL parameters.
+
+- **Hide Specific Stats:** Use `&hide=stars,commits,prs,issues,contribs`
+- **Show Additional Stats:** Use `&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage`
+- **Enable Icons:** Use `&show_icons=true`
+- **Themes:** Use `&theme=THEME_NAME`
+
+Example:
+![Esan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsanRAHIMI&show_icons=true&theme=radical)
+
+---
+
+### 🎨 Themes
+
+GitHub Readme Stats comes with several built-in themes (e.g., dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula).
+
+![Esan's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsanRAHIMI&show_icons=true&theme=radical)
+
+---
+
+### 📊 Top Languages Card
+
+The top languages card shows a GitHub user's most frequently used languages.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsanRAHIMI&layout=compact&theme=radical)](https://github.com/EsanRAHIMI/github-readme-stats)
+
+You can customize the languages card as well:
+
+- **Exclude Repositories:** Use `&exclude_repo=repo1,repo2`
+- **Hide Specific Languages:** Use `&hide=language1,language2`
+- **Show More Languages:** Use `&langs_count=8`
+- **Compact Layout:** Use `&layout=compact`
+
+Example:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EsanRAHIMI&layout=compact&theme=radical)
+
+---
+
+### 🎯 Additional Features
+
+- **GitHub Extra Pins:** Pin more than 6 repositories in your profile using a GitHub readme profile.
+- **GitHub Gist Pins:** Pin gists in your GitHub profile using a GitHub readme profile.
+- **Deploy on Your Own:** Deploy GitHub Readme Stats on your own Vercel instance for better performance and customization.
+
+---
+
+### 💖 Support the Project
+
+Love the project? Consider supporting it!
+
+- Give credit when you use GitHub Readme Stats on your readme, linking back to it.
+- Star and share the project to help it grow.
+- Consider making a donation via PayPal.
+
+---
+
+This README provides a comprehensive yet organized view of your professional profile, highlighting your skills, projects, achievements, and how to reach you. If you need any further customization or additional details, please let me know!
