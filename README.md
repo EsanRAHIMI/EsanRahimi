@@ -92,6 +92,6 @@ Feel free to reach out if you want to collaborate on projects, discuss technolog
 
 ---
 
-Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=esanrahimi
 <a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=esanrahimi" target="_blank">Follow on LinkedIn</a>
+
 *This README was generated with ❤️ by Esan.*
