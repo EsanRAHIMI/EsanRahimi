@@ -1,6 +1,6 @@
 # Hey AI! I am Esan, developing you!
 
-![Profile Banner](https://derakht.net/text/GitHub.jpg) <!-- Replace this with a personal banner if you have one -->
+![Profile Banner](https://ehsanrahimi.com/text/GitHub.jpg) <!-- Replace this with a personal banner if you have one -->
 
 ## 👨‍💻 About Me
 
