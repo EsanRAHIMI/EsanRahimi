@@ -6,7 +6,7 @@
 
 I'm Esan Rahimi, a dedicated AI strategist, researcher, and developer based in Dubai. With a Master's degree in Information Technology, I bring a wealth of experience in AI, machine learning, and software development. Currently, I serve as the Head of Media at TCH and am the founder of several innovative platforms.
 
-## 🎓 Education
+## 🎓 Education 
 
 - **Master's in Management Information Systems** - University of Eyvanekey
   - Thesis: "Path Planning for Drones using Deep Reinforcement Learning Algorithms"
