@@ -12,10 +12,7 @@ I'm Esan Rahimi, a dedicated AI strategist, researcher, and developer based in D
   - Algorithms Used: DQN, DRQN, ADSA, QR_DRQN
 
 - **Bachelor of Engineering in Computer Software Engineering** - Farahmand Institute of Higher Education
-## 📌 Pinned Repositories
-
-[![TellMeo](https://github-readme-stats.vercel.app/api/pin/?username=EsanRAHIMI&repo=TellMeo&show_icons=true&theme=radical)](https://github.com/EsanRAHIMI/TellMeo)
-[![DeaLinkerBot](https://github-readme-stats.vercel.app/api/pin/?username=EsanRAHIMI&repo=DeaLinkerBot&show_icons=true&theme=radical)](https://github.com/EsanRAHIMI/DeaLinkerBot)
+![Project Views](https://komarev.com/ghpvc/?username=EsanRAHIMI-TellMeo&label=Project%20Views&color=blueviolet&style=flat-square)
 
 ## 🔭 Current Projects
 
