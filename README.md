@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00F700&width=435&lines=Hey+AI%2C+I+am+Esan!+Developing+you...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFFFFF&width=435&lines=Hey+AI%2C+I+am+Esan!+Developing+you...)](https://git.io/typing-svg)
 
 ![Profile Banner](https://ehsanrahimi.com/text/GitHub.jpg) <!-- Replace this with a personal banner if you have one -->
 
