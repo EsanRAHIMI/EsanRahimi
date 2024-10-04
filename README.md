@@ -88,6 +88,7 @@ Creating engaging and informative AI courses for different audiences, from begin
 - Developed and marketed multiple innovative products at TCH.
 - Created engaging AI courses for a diverse audience on YouTube.
 - Founded Mivestan.com and TaminBar.com, pioneering online retail and wholesale stores for fresh produce in the Middle East.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=realitymoez&theme=highcontrast)](https://git.io/streak-stats)
 
 ## 🎯 Current Goals
 
