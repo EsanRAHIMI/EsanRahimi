@@ -1,7 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFFFFF&width=435&lines=Hey+AI%2C+I+am+Esan!+Developing+you...)](https://git.io/typing-svg)
-##
 ![Profile Banner](https://ehsanrahimi.com/text/GitHub.jpg) <!-- Replace this with a personal banner if you have one -->
-
+##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFFFFF&width=435&lines=Hey+AI%2C+I+am+Esan!+Developing+you...)](https://git.io/typing-svg)
 ## 👨‍💻 About Me
 
 I'm Esan Rahimi, a dedicated AI strategist, researcher, and developer based in Dubai. With a Master's degree in Information Technology, I bring a wealth of experience in AI, machine learning, and software development. Currently, I serve as the Head of Media at TCH and am the founder of several innovative platforms.
