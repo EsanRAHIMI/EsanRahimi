@@ -12,7 +12,6 @@ I'm Esan Rahimi, a dedicated AI strategist, researcher, and developer based in D
   - Algorithms Used: DQN, DRQN, ADSA, QR_DRQN
 
 - **Bachelor of Engineering in Computer Software Engineering** - Farahmand Institute of Higher Education
-![Project Views](https://komarev.com/ghpvc/?username=EsanRAHIMI-TellMeo&label=Project%20Views&color=blueviolet&style=flat-square)
 
 ## 🔭 Current Projects
 
@@ -76,6 +75,11 @@ Creating engaging and informative AI courses for different audiences, from begin
 - Developed and marketed multiple innovative products at TCH.
 - Created engaging AI courses for a diverse audience on YouTube.
 - Founded Mivestan.com and TaminBar.com, pioneering online retail and wholesale stores for fresh produce in the Middle East.
+## 🚀 Achievements
+
+- ![Achieved](https://img.shields.io/badge/-Launched_TellMeo-brightgreen)
+- ![Success](https://img.shields.io/badge/-Developed_AI_Courses_on_YouTube-yellow)
+- ![Growth](https://img.shields.io/badge/-Pioneered_Mivestan.com-blue)
 
 ## 🎯 Current Goals
 
