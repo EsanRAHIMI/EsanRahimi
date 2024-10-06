@@ -72,7 +72,6 @@ Creating engaging and informative AI courses for different audiences, from begin
   <img src="https://github-readme-stats.vercel.app/api?username=EsanRAHIMI&show_icons=true&theme=radical" alt="Esan's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsanRAHIMI&layout=compact&theme=radical" alt="Top Languages" />
 </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=esanrahimi&theme=highcontrast)](https://git.io/streak-stats)
 
 ## 📫 How to Reach Me
 <p align="center">
