@@ -26,11 +26,12 @@ I'm **Esan Rahimi**, an AI strategist, researcher, and developer with a passion 
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /> </a>
   <a href="https://openai.com/" target="_blank"> <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" /> </a>
 </p>
-## 🏆 GitHub Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=EsanRAHIMI&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 ## 📜 Certifications
-- TensorFlow Developer Certificate [🔗](https://www.coursera.org/account/accomplishments/certificate/XXXXX)
-- OpenAI API Mastery [🔗](https://openai.com/)
+
+- [![Certificate](https://img.shields.io/badge/IBM%20AI%20Engineering%20Course-Complete-brightgreen?style=flat-square)](https://courses.yl-ptech.skillsnetwork.site/certificates/0209a82b7c8a4391acb09b35370b1df4)
+- [![Certificate](https://img.shields.io/badge/DataCamp%20Introduction%20to%20Python-Complete-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/b12db63709e7b230ab13febe917a4d3f19c56178?raw=1)
+- [![Certificate](https://img.shields.io/badge/DataCamp%20Intermediate%20Python%20Course-Complete-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/928b2c1ba5bedd8aed8531bb37ab2f41a6677a53?raw=1)
+
 ## 🔭 Current Projects
 
 ### [Tell Meo Intelligent Task Planner](https://github.com/EsanRAHIMI/TellMeo)
