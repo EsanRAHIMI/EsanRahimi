@@ -28,6 +28,9 @@ I'm **Esan Rahimi**, an AI strategist, researcher, and developer with a passion 
 </p>
 ## 🏆 GitHub Profile Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=EsanRAHIMI&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## 📜 Certifications
+- TensorFlow Developer Certificate [🔗](https://www.coursera.org/account/accomplishments/certificate/XXXXX)
+- OpenAI API Mastery [🔗](https://openai.com/)
 
 ## 🔭 Current Projects
 
