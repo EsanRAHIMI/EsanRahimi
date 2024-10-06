@@ -40,12 +40,6 @@ An AI-powered task planner integrating **Natural Language Processing (NLP)** wit
 **Technologies:** React, Node.js, MongoDB, OpenAI API, JWT for authentication.
 **AI Techniques:** NLP, Deep Learning with **TensorFlow**, OpenAI’s GPT model.
 
-## 🔭 Current Projects
-### [Tell Meo Intelligent Task Planner](https://github.com/EsanRAHIMI/TellMeo)
-An intelligent task planner and management tool with a voice chatbot interface. This project integrates Google Calendar, allows task management, and provides real-time reminders.
-
-**Technologies:** React, Node.js, MongoDB, OpenAI API, Google Calendar API, JWT for authentication.
-
 ### [SiliconTalk AI Courses](https://www.youtube.com/@SiliconTalk)
 Creating engaging and informative AI courses for different audiences, from beginners to advanced learners.
 
