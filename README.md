@@ -28,9 +28,9 @@ I'm **Esan Rahimi**, an AI strategist, researcher, and developer with a passion 
 </p>
 
 ## 📜 Certifications
-- [![Certificate](https://img.shields.io/badge/DataCamp%20Introduction%20to%20Python-Complete-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/d952cb487de20b59821cf9b3d4a0ba0263f60559?raw=1)
+- [![Certificate](https://img.shields.io/badge/DataCamp%20Intermediate%20Python-Complete-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/d952cb487de20b59821cf9b3d4a0ba0263f60559?raw=1)
 - [![Certificate](https://img.shields.io/badge/DataCamp%20Implementing%20AI%20Solutions%20in%20Business-Complete-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/b12db63709e7b230ab13febe917a4d3f19c56178?raw=1)
-- [![Certificate](https://img.shields.io/badge/IBM%20AI%20Engineering%20Course-Complete-brightgreen?style=flat-square)](https://courses.yl-ptech.skillsnetwork.site/certificates/0209a82b7c8a4391acb09b35370b1df4)
+- [![Certificate](https://img.shields.io/badge/IBM%20Data%20Science-Complete-brightgreen?style=flat-square)](https://courses.yl-ptech.skillsnetwork.site/certificates/0209a82b7c8a4391acb09b35370b1df4)
 - [![Certificate](https://img.shields.io/badge/DataCamp%20Understanding%20Machine%20Learning-Complete-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/928b2c1ba5bedd8aed8531bb37ab2f41a6677a53?raw=1)
 
 ## 🔭 Current Projects
