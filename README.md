@@ -31,6 +31,11 @@ I'm **Esan Rahimi**, an AI strategist, researcher, and developer with a passion 
 ## 📜 Certifications
 - TensorFlow Developer Certificate [🔗](https://www.coursera.org/account/accomplishments/certificate/XXXXX)
 - OpenAI API Mastery [🔗](https://openai.com/)
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EsanRAHIMI&show_icons=true&theme=radical" alt="Esan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsanRAHIMI&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 
 ## 🔭 Current Projects
 
