@@ -1,14 +1,13 @@
+## 🧠 Artificial Intelligence Expert | Full-Stack Developer | Tech Strategist
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I+am+Esan!;🚀+Building+AI+solutions...)](https://git.io/typing-svg)
+##
 ![Profile Banner](https://ehsanrahimi.com/text/GitHub.jpg) <!-- Replace this with a personal banner if you have one -->
 ##
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFFFFF&width=435&lines=Hey+AI%2C+I+am+Esan!+Developing+you...)](https://git.io/typing-svg)
 ## 👨‍💻 About Me
 
 I'm **Esan Rahimi**, an AI strategist, researcher, and developer with a passion for creating cutting-edge machine learning solutions. With a Master's in Management Information Systems and a strong background in AI and software development, I currently work on various AI and ML projects independently.
 - 🔥 Specialties: **Artificial Intelligence**, **Machine Learning**, **Software Engineering**  
 - 🌟 Fun Fact: Always eager to explore and integrate **cutting-edge technologies** like **OpenAI**, **TensorFlow**, and **Deep Learning** in projects.
-## 🧠 Artificial Intelligence Expert | Full-Stack Developer | Tech Strategist
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I+am+Esan!;🚀+Building+AI+solutions...)](https://git.io/typing-svg)
-
 ## 🎓 Education 
 
 - **Master's in Management Information Systems** - University of Eyvanekey
