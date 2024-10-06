@@ -1,5 +1,5 @@
 ## 🧠 Artificial Intelligence Expert | Full-Stack Developer | Tech Strategist
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=1&lines=👋+Hello%2C+I+am+Esan!;🚀+Building+AI+solutions...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I+am+Esan!;🚀+Building+AI+solutions...)](https://git.io/typing-svg)
 ##
 ![Profile Banner](https://ehsanrahimi.com/text/GitHub.jpg) <!-- Replace this with a personal banner if you have one -->
 ##
