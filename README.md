@@ -3,8 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=FFFFFF&width=435&lines=Hey+AI%2C+I+am+Esan!+Developing+you...)](https://git.io/typing-svg)
 ## 👨‍💻 About Me
 
-I'm **Esan Rahimi**, a passionate **AI strategist**, **researcher**, and **developer** based in **Dubai**. With extensive experience in AI, Machine Learning, and software development, I'm currently the **Head of Media at TCH** and the founder of several groundbreaking platforms.
-
+I'm **Esan Rahimi**, an AI strategist, researcher, and developer with a passion for creating cutting-edge machine learning solutions. With a Master's in Management Information Systems and a strong background in AI and software development, I currently work on various AI and ML projects independently.
 - 🔥 Specialties: **Artificial Intelligence**, **Machine Learning**, **Software Engineering**  
 - 🌟 Fun Fact: Always eager to explore and integrate **cutting-edge technologies** like **OpenAI**, **TensorFlow**, and **Deep Learning** in projects.
 
