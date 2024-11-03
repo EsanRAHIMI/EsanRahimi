@@ -12,7 +12,7 @@ I'm **Esan Rahimi**, an AI strategist, researcher, and developer with a passion 
   - Thesis: "Path Planning for Drones using Deep Reinforcement Learning Algorithms"
   - Algorithms Used: DQN, DRQN, ADSA, QR_DRQN
 
-- **Bachelor of Engineering in Computer Software Engineering** - Farahmand Institute of Higher Education
+- **Bachelor of Engineering in Computer Software Engineering** - Farahmand Institute of Higher Education.
 
 ## ⚙️ Languages and Tools
 <p align="center">
