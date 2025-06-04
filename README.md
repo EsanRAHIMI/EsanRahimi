@@ -1,6 +1,6 @@
 ## 🧠 Artificial Intelligence Expert | Full-Stack Developer | Tech Strategist
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=500&lines=👋+Hello%2C+I+am+Esan!;🚀+Building+AI+solutions...)](https://git.io/typing-svg)
-![Profile Banner](https://github.com/EsanRAHIMI/reader/blob/main/GitHub.jpg?raw=true) <!-- Replace this with a personal banner if you have one -->
+![Profile Banner](https://ehsanrahimi.com/text/GitHub.jpg) <!-- Replace this with a personal banner if you have one -->
 
 ## 👨‍💻 About Me
 I'm **Esan Rahimi**, an AI strategist, researcher, and developer with a passion for creating cutting-edge machine learning solutions. With a Master's in Management Information Systems and a strong background in AI and software development, I currently work on various AI and ML projects independently.
