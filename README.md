@@ -1,3 +1,6 @@
+<img src="https://raw.githubusercontent.com/EsanRAHIMI/metrics/master/metrics.svg" />
+<img src="https://github.com/EsanRAHIMI/metrics/blob/master/metrics.svg" />
+
 # 🚀 Ehsan Rahimi | AI Strategist & Technology Entrepreneur
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I+am+Ehsan!;🤖+Building+AI+solutions...;🏆+AAAI+2025+Hackathon+Winner;🌟+Transforming+ideas+into+reality)](https://git.io/typing-svg)
@@ -97,10 +100,10 @@ Led enterprise software deployments for major organizations and trained executiv
 - [![Certificate](https://img.shields.io/badge/Google-AI%20Powered%20Performance%20Ads%20Certification-brightgreen?style=flat-square)](https://skillshop.credential.net/8f3da552-a595-4a0d-91ef-cd7393eaccfc#acc.x1dFfQDP)
 - [![Certificate](https://img.shields.io/badge/DUBAI%20FUTURE%20FOUNDATION-One%20Million%20Prompters%20Certification-brightgreen?style=flat-square)](https://omp.dub.ai/certificate/508wDhw8klRm)
 - [![Certificate](https://img.shields.io/badge/IBM-Machine%20Learning%20with%20Python-brightgreen?style=flat-square)](https://courses.yl-ptech.skillsnetwork.site/certificates/c3d8ba87c9064671b825ad1d00c51086)
-- [![Certificate](https://img.shields.io/badge/IBM%20Data%20Science-Professional%20Certificate-brightgreen?style=flat-square)](https://courses.yl-ptech.skillsnetwork.site/certificates/0209a82b7c8a4391acb09b35370b1df4)
-- [![Certificate](https://img.shields.io/badge/DataCamp%20AI%20Solutions%20in%20Business-Complete-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/b12db63709e7b230ab13febe917a4d3f19c56178?raw=1)
-- [![Certificate](https://img.shields.io/badge/DataCamp%20Machine%20Learning-Complete-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/928b2c1ba5bedd8aed8531bb37ab2f41a6677a53?raw=1)
-- [![Certificate](https://img.shields.io/badge/DataCamp%20Python-Intermediate-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/d952cb487de20b59821cf9b3d4a0ba0263f60559?raw=1)
+- [![Certificate](https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-brightgreen?style=flat-square)](https://courses.yl-ptech.skillsnetwork.site/certificates/0209a82b7c8a4391acb09b35370b1df4)
+- [![Certificate](https://img.shields.io/badge/DataCamp-AI%20Solutions%20in%20Business-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/b12db63709e7b230ab13febe917a4d3f19c56178?raw=1)
+- [![Certificate](https://img.shields.io/badge/DataCamp-Machine%20Learning-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/928b2c1ba5bedd8aed8531bb37ab2f41a6677a53?raw=1)
+- [![Certificate](https://img.shields.io/badge/DataCamp-Python%20Intermediate-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/d952cb487de20b59821cf9b3d4a0ba0263f60559?raw=1)
 
 ## 🚀 Featured Projects
 
@@ -123,15 +126,13 @@ Advanced Telegram bot with gamification features and intelligent interaction cap
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EhsanRAHIMI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ehsan's GitHub Stats" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=EsanRAHIMI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ehsan's GitHub Stats" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EhsanRAHIMI&layout=compact&theme=radical&langs_count=8" alt="Top Languages" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsanRAHIMI&theme=radical" alt="GitHub Streak" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EhsanRAHIMI&theme=radical" alt="GitHub Streak" />
+<img src="https://github-profile-trophy.vercel.app/?username=EsanRAHIMI&theme=radical&row=1&column=7" />
 </p>
 
 ## 🎯 Current Focus & Goals
