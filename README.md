@@ -1,8 +1,3 @@
-<img src="https://raw.githubusercontent.com/EsanRAHIMI/metrics/master/metrics.svg" />
-<img src="https://github.com/EsanRAHIMI/metrics/blob/master/metrics.svg" />
-### 🧮 My GitHub Metrics
-<img src="https://raw.githubusercontent.com/EhsanRAHIMI/github-metrics/main/metrics.svg" />
-
 # 🚀 Ehsan Rahimi | AI Strategist & Technology Entrepreneur
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I+am+Ehsan!;🤖+Building+AI+solutions...;🏆+AAAI+2025+Hackathon+Winner;🌟+Transforming+ideas+into+reality)](https://git.io/typing-svg)
