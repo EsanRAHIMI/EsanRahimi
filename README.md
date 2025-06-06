@@ -1,5 +1,7 @@
 <img src="https://raw.githubusercontent.com/EsanRAHIMI/metrics/master/metrics.svg" />
 <img src="https://github.com/EsanRAHIMI/metrics/blob/master/metrics.svg" />
+### 🧮 My GitHub Metrics
+<img src="https://raw.githubusercontent.com/EhsanRAHIMI/github-metrics/main/metrics.svg" />
 
 # 🚀 Ehsan Rahimi | AI Strategist & Technology Entrepreneur
 
