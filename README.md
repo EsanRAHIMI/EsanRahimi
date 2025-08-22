@@ -4,7 +4,7 @@
 
 ![Profile Banner](https://ehsanrahimi.com/text/GitHub.jpg)
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me 
 
 I'm **Ehsan Rahimi**, an AI strategist, technology entrepreneur, and software architect with over 18 years of experience building innovative solutions. Born in Tehran (April 1988) and currently based in Dubai, I specialize in developing intelligent systems that bridge the gap between cutting-edge AI research and real-world applications.
 
