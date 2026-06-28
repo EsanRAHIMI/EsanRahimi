@@ -1,191 +1,331 @@
-# 🚀 Ehsan Rahimi | AI Strategist & Technology Entrepreneur
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=500&color=FFFFFF&center=true&vCenter=true&width=600&lines=👋+Hello%2C+I+am+Ehsan!;🤖+Building+AI+solutions...;🏆+AAAI+2025+Hackathon+Winner;🌟+Transforming+ideas+into+reality)](https://git.io/typing-svg)
+# Ehsan Rahimi
 
-![Profile Banner](https://ehsanrahimi.com/text/GitHub.jpg)
+### AI Builder · Agentic Systems · Applied AI Products
 
-## 👨‍💻 About Me 
+#### Building practical AI systems from Dubai for real-world workflows, learning, automation, and intelligent operations.
 
-I'm **Ehsan Rahimi**, an AI strategist, technology entrepreneur, and software architect with over 18 years of experience building innovative solutions. Born in Tehran (April 1988) and currently based in Dubai, I specialize in developing intelligent systems that bridge the gap between cutting-edge AI research and real-world applications.
+<br />
 
-As the founder of **Al Najah Al Mudamun Co.** and co-creator of the award-winning **Gebral Agentic AI platform** (3rd place, AAAI 2025 Hackathon), I'm passionate about leveraging artificial intelligence to solve complex business challenges and create meaningful impact.
+[![GitHub](https://img.shields.io/badge/GitHub-EsanRAHIMI-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/EsanRAHIMI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ehsan%20Rahimi-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ehsanrahimi)
+[![Email](https://img.shields.io/badge/Email-ehsanrahimi%40live.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:ehsanrahimi@live.com)
+[![Location](https://img.shields.io/badge/Based%20in-Dubai,%20UAE-C9A227?style=flat-square)](#)
 
-- 🎯 **Current Focus**: Agentic AI systems, Enterprise solutions, AI education
-- 🏢 **Company**: Al Najah Al Mudamun Co. (Dubai, UAE)
-- 🏆 **Recent Achievement**: AAAI 2025 Hackathon 3rd Place Winner
-- 🌍 **Location**: Dubai, United Arab Emirates
-- 💡 **Mission**: Democratizing AI through education and accessible technology solutions
+<br />
 
-## 🎓 Education & Qualifications
+<img src="https://ehsanrahimi.com/text/GitHub.jpg" alt="Ehsan Rahimi GitHub Banner" width="100%" />
 
-**Master of Science in Information Technology** | *Management Information Systems (MIS)*  
-*Ivanaki University* | September 2023  
-- **Thesis**: "Path Planning for Drones using Deep Reinforcement Learning Algorithms"
-- **Algorithms**: DQN, DRQN, ADSA, QR_DRQN
-- **Research Focus**: Autonomous systems and intelligent navigation
-
-**Bachelor of Engineering in Software Engineering**  
-*Farahmand Institute of Higher Education*  
-- **Specialization**: Enterprise software development and system architecture
-
-## 💼 Professional Journey
-
-### 🚀 **Founder & CEO** | Al Najah Al Mudamun Co. | *2023 - Present*
-Leading a Dubai-based company focused on software, hardware, and AI innovation. Developing enterprise-grade AI solutions and participating in major tech events including GITEX.
-
-### 🤖 **Co-Founder & Lead Developer** | Gebral Agentic AI Platform | *2024 - Present*
-Co-developed an innovative Agentic AI platform for personal and professional development. **Awarded 3rd place at AAAI 2025 Hackathon**.
-
-### 📚 **AI Education & Content Creator** | *2023 - Present*
-- Teaching AI training courses and organizing the 2025 Dubai Robotics Competition
-- Creating comprehensive AI educational content through SiliconTalk YouTube channel
-- Developing AI Educational Department platform (2024-active)
-
-### 🛒 **Technology Strategist** | TCH & TechnoLife | *2020 - 2024*
-Led technology strategy and product development initiatives, focusing on smart equipment markets and e-commerce platform optimization.
-
-### 🥬 **Founder & CEO** | Mivestan | *2017 - Present*
-Launched one of Iran's first smart platforms for fresh food delivery. Pioneered online retail and wholesale for fresh produce in the Middle East region.
-
-### 💼 **Senior Implementation Consultant** | Chargoon | *2011 - 2017*
-Led enterprise software deployments for major organizations and trained executives across various industries in office automation solutions.
-
-## 🏆 Recent Achievements & Recognition
-
-- 🥉 **3rd Place Winner** - AAAI 2025 Hackathon (Gebral Agentic AI Platform)
-- 🎪 **GITEX Participant** - Showcasing AI innovations at major tech events
-- 📺 **Media Presence** - Produced and hosted programs on emerging technologies
-- 🏢 **Enterprise Impact** - Successfully deployed solutions for major organizations
-- 🎯 **Competition Organizer** - 2025 Dubai Robotics Competition
-
-## 🛠️ Technical Expertise
-
-### Programming Languages & Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-</p>
-
-### AI & Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-</p>
-
-### Databases & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
-
-### Specialized Skills
-- **Artificial Intelligence**: NLP, Computer Vision, Deep Learning, Reinforcement Learning
-- **Agentic AI Systems**: Multi-agent architectures, Autonomous decision-making
-- **Enterprise Solutions**: ERP implementation, Business process automation
-- **Cloud Platforms**: AWS, Azure, Google Cloud Platform
-- **Mobile Development**: Cross-platform solutions
-
-## 📜 Professional Certifications
-
-- [![Certificate](https://img.shields.io/badge/Google-AI%20Powered%20Performance%20Ads%20Certification-brightgreen?style=flat-square)](https://skillshop.credential.net/8f3da552-a595-4a0d-91ef-cd7393eaccfc#acc.x1dFfQDP)
-- [![Certificate](https://img.shields.io/badge/DUBAI%20FUTURE%20FOUNDATION-One%20Million%20Prompters%20Certification-brightgreen?style=flat-square)](https://omp.dub.ai/certificate/508wDhw8klRm)
-- [![Certificate](https://img.shields.io/badge/IBM-Machine%20Learning%20with%20Python-brightgreen?style=flat-square)](https://courses.yl-ptech.skillsnetwork.site/certificates/c3d8ba87c9064671b825ad1d00c51086)
-- [![Certificate](https://img.shields.io/badge/IBM-Data%20Science%20Professional%20Certificate-brightgreen?style=flat-square)](https://courses.yl-ptech.skillsnetwork.site/certificates/0209a82b7c8a4391acb09b35370b1df4)
-- [![Certificate](https://img.shields.io/badge/DataCamp-AI%20Solutions%20in%20Business-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/b12db63709e7b230ab13febe917a4d3f19c56178?raw=1)
-- [![Certificate](https://img.shields.io/badge/DataCamp-Machine%20Learning-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/928b2c1ba5bedd8aed8531bb37ab2f41a6677a53?raw=1)
-- [![Certificate](https://img.shields.io/badge/DataCamp-Python%20Intermediate-brightgreen?style=flat-square)](https://www.datacamp.com/statement-of-accomplishment/course/d952cb487de20b59821cf9b3d4a0ba0263f60559?raw=1)
-
-## 🚀 Featured Projects
-
-### 🏆 [Gebral Agentic AI Platform](https://github.com/EhsanRAHIMI/Gebral) 
-**3rd Place Winner - AAAI 2025 Hackathon**  
-An advanced Agentic AI platform for personal and professional development, featuring autonomous task management and intelligent decision-making capabilities.
-
-**Technologies**: Python, TensorFlow, OpenAI API, React, Node.js  
-**AI Techniques**: Multi-agent systems, NLP, Deep reinforcement learning
-
-### 🌐 Enterprise Platforms
-- **[Derakht.net](https://derakht.net)** - Business Network Educational Platform (2020-active)
-- **[DeaLinker.com](https://DeaLinker.com)** - Professional networking and collaboration
-- **[CollabInvent.com](https://CollabInvent.com)** - Innovation collaboration platform
-- **[Mivestan.com](https://Mivestan.com)** - Smart fresh food delivery platform
-
-### 🤖 [DeaLinkerBot](https://t.me/DeaLinkerBot)
-Advanced Telegram bot with gamification features and intelligent interaction capabilities.
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EsanRAHIMI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ehsan's GitHub Stats" />
-
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsanRAHIMI&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=EsanRAHIMI&theme=radical&row=1&column=7" />
-</p>
-
-## 🎯 Current Focus & Goals
-
-### 🚧 Active Projects
-- **Expanding Gebral AI Platform**: Enhancing multi-agent capabilities and enterprise integration
-- **Dubai Robotics Competition 2025**: Organizing and leading educational robotics initiatives
-- **AI Education Scaling**: Developing comprehensive curriculum for various skill levels
-- **Enterprise AI Solutions**: Building custom AI systems for Dubai-based businesses
-
-### 🔮 Future Vision
-- Establishing Dubai as a hub for AI innovation and education
-- Developing next-generation Agentic AI systems
-- Creating accessible AI tools for small and medium enterprises
-- Building strategic partnerships across MENA region
-
-## 🌐 Connect & Collaborate
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ehsanrahimi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/EhsanRahimi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://www.youtube.com/@SiliconTalk"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="mailto:ehsanrahimi@live.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<p align="center">
-  <strong>📧 Business Inquiries:</strong> <a href="mailto:ehsanrahimi@live.com">ehsanrahimi@live.com</a><br>
-  <strong>🏢 Company:</strong> Al Najah Al Mudamun Co., Dubai, UAE<br>
-  <strong>💼 Consulting:</strong> AI Strategy, Enterprise Solutions, Technology Education
-</p>
-
-## 💝 Open for Collaboration
-
-I'm always interested in connecting with fellow innovators, researchers, and entrepreneurs. Whether you're looking to:
-
-- 🤝 **Collaborate** on cutting-edge AI projects
-- 🎓 **Learn** about AI implementation and strategy
-- 💼 **Consult** on enterprise technology solutions
-- 🌟 **Partner** on educational or research initiatives
-
-Feel free to reach out! Let's build the future of intelligent systems together.
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=EhsanRAHIMI&style=flat-square&color=blue" alt="Profile Views" />
-  <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ehsanrahimi" target="_blank">
-    <img src="https://img.shields.io/badge/Follow%20on-LinkedIn-blue?style=flat-square&logo=linkedin" alt="Follow on LinkedIn" />
-  </a>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <em>"Innovation distinguishes between a leader and a follower." - Steve Jobs</em><br>
-  <strong>Building tomorrow's AI solutions today 🚀</strong>
-</p>
+## About
 
-<p align="center">
-  <sub>This README was crafted with ❤️ and powered by AI | Last updated: June 2025</sub>
-</p>
+I am **Ehsan Rahimi**, an AI builder, technology strategist, and software architect based in **Dubai, UAE**.
+
+My work focuses on building practical AI systems that move beyond demos: agentic workflows, AI-assisted business tools, learning platforms, automation pipelines, computer vision systems, and developer-facing products.
+
+I am especially interested in:
+
+* **Agentic AI systems** and multi-agent orchestration
+* **AI operating systems** for organizations and personal productivity
+* **Applied computer vision** for real-world business workflows
+* **AI-powered education** and adaptive learning systems
+* **Human-in-the-loop automation** with approval, governance, and auditability
+* **Developer tools** that help small teams build faster and smarter
+
+In 2025, I was part of **Team_152**, which won **3rd place overall at the AAAI 2025 Hackathon** with an AI-powered smart tutor project.
+
+---
+
+## Current Focus
+
+```txt
+Agentic AI        ████████████████████░░
+Applied AI        ███████████████████░░░
+AI Education      ██████████████████░░░░
+Computer Vision   ████████████████░░░░░░
+Automation        ███████████████████░░░
+Developer Tools   ███████████████░░░░░░░
+```
+
+I am currently working on multiple pilot projects around:
+
+* Multi-agent AI orchestration
+* AI-assisted planning and proposal generation
+* Product and asset automation pipelines
+* AI-powered IELTS preparation
+* Personal AI assistants and workflow automation
+* Computer vision tools for scanning, detection, and structured data extraction
+
+---
+
+## Featured Projects
+
+### AOS — Autonomous Operating System
+
+**A multi-agent AI operating-system kernel for orchestrating specialized AI services.**
+
+AOS is an experimental AI system architecture focused on service orchestration, event streaming, memory, documentation, governance, and human approval workflows.
+
+**Key ideas:**
+
+* Multi-agent orchestration
+* Service registry and event bus
+* Human approval gates
+* Memory and documentation services
+* Dashboard and operational visibility
+* Governance-first automation
+
+**Repository:** [EsanRAHIMI/AOS](https://github.com/EsanRAHIMI/AOS)
+
+---
+
+### PlanIQ — AI Floor Plan Intelligence
+
+**An AI-assisted system for analyzing floor plans and planning smart-home, CCTV, ELV, Wi-Fi, and automation layouts.**
+
+PlanIQ combines computer vision, OCR, rule-based planning, editable canvas workflows, and PDF export to support practical design and engineering decisions.
+
+**Key ideas:**
+
+* Floor-plan understanding
+* Device placement recommendations
+* Computer vision and OCR
+* Smart-home and ELV planning
+* Editable visual canvas
+* Client-ready output generation
+
+**Repository:** [EsanRAHIMI/PlanIQ](https://github.com/EsanRAHIMI/PlanIQ)
+
+---
+
+### IELTS-AI — AI Learning Engine
+
+**An AI-powered IELTS preparation platform for vocabulary, phrases, sentence patterns, review, quizzes, and progress tracking.**
+
+IELTS-AI is designed as a structured learning assistant that turns study material into actionable learning objects and uses spaced repetition to support long-term retention.
+
+**Key ideas:**
+
+* AI-enriched vocabulary and phrase extraction
+* Sentence pattern learning
+* SM-2 spaced repetition
+* Daily study plans
+* Quiz and review workflows
+* Progress tracking
+
+**Repository:** [EsanRAHIMI/IELTS-AI-](https://github.com/EsanRAHIMI/IELTS-AI-)
+
+---
+
+### i — Personal AI Assistant Platform
+
+**A personal AI assistant platform for knowledge, tasks, voice interaction, and workflow automation.**
+
+This project explores how a personal AI layer can help users manage information, interact through voice, and automate daily workflows with structured backend services.
+
+**Key ideas:**
+
+* Personal AI assistant architecture
+* Voice and conversation workflows
+* Authentication and backend services
+* Knowledge and task management
+* AI-assisted daily operations
+
+**Repository:** [EsanRAHIMI/i](https://github.com/EsanRAHIMI/i)
+
+---
+
+### Scanner — AI Product & Workflow Scanner
+
+**A computer-vision and automation monorepo for product scanning, model training, image workflows, and proposal generation.**
+
+Scanner explores practical business automation through detection, structured data extraction, product media workflows, and AI-assisted operational tools.
+
+**Key ideas:**
+
+* Product scanning and detection
+* YOLO-based training and inference
+* Image processing workflows
+* Proposal generation
+* Business automation pipelines
+* Multi-service architecture
+
+**Repository:** [EsanRAHIMI/Scanner](https://github.com/EsanRAHIMI/Scanner)
+
+---
+
+### AAAI 2025 Hackathon — Team_152
+
+**AI-powered smart tutor project — 3rd place overall at AAAI 2025 Hackathon.**
+
+This project represents my work with Team_152 during the AAAI 2025 Hackathon, where we built an AI-powered educational assistant focused on personalized learning support.
+
+**Key ideas:**
+
+* AI-powered tutoring
+* Personalized learning
+* Educational agents
+* Human-centered AI
+* Hackathon-grade rapid prototyping
+
+**Repositories:**
+
+* [AAAI-2025-Hackathon/team_152](https://github.com/AAAI-2025-Hackathon/team_152)
+* [EsanRAHIMI/AAAI2025Hackathon](https://github.com/EsanRAHIMI/AAAI2025Hackathon)
+
+---
+
+## Technical Areas
+
+<div align="center">
+
+| Area                     | Focus                                                              |
+| ------------------------ | ------------------------------------------------------------------ |
+| **AI Systems**           | Agentic AI, multi-agent workflows, AI assistants, LLM applications |
+| **Computer Vision**      | Object detection, image processing, visual automation              |
+| **Backend Engineering**  | FastAPI, Node.js, NestJS, service architecture, APIs               |
+| **Frontend Engineering** | Next.js, React, dashboards, product interfaces                     |
+| **Data & Storage**       | PostgreSQL, MongoDB, Redis, MinIO, S3-compatible storage           |
+| **DevOps**               | Docker, deployment pipelines, service orchestration                |
+| **Product Strategy**     | AI product design, business automation, workflow systems           |
+
+</div>
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=FFD43B)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript\&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
+
+### Frontend
+
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge\&logo=tailwindcss\&logoColor=38B2AC)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge\&logo=fastapi\&logoColor=009688)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=nodedotjs\&logoColor=339933)
+![NestJS](https://img.shields.io/badge/NestJS-111111?style=for-the-badge\&logo=nestjs\&logoColor=E0234E)
+
+### AI & Data
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge\&logo=openai\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge\&logo=pytorch\&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111111?style=for-the-badge\&logo=tensorflow\&logoColor=FF6F00)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge)
+
+### Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge\&logo=docker\&logoColor=2496ED)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111111?style=for-the-badge\&logo=mongodb\&logoColor=47A248)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge\&logo=redis\&logoColor=DC382D)
+
+</div>
+
+---
+
+## Education
+
+**M.Sc. in Information Technology — Management Information Systems**
+Ivanaki University
+
+Research focus: intelligent systems, AI-assisted decision-making, and autonomous system design.
+
+**B.Eng. in Software Engineering**
+Farahmand Institute of Higher Education
+
+Focus: software architecture, enterprise systems, and application development.
+
+---
+
+## Selected Recognition
+
+* **3rd Place Overall — AAAI 2025 Hackathon**
+* AI builder and product developer working across real-world AI pilots
+* Founder of Dubai-based technology company **Al Najah Al Mudamun Trading Co. L.L.C**
+* Builder of multiple AI, automation, and applied software projects across education, business operations, computer vision, and agentic systems
+
+---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=EsanRAHIMI&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="Ehsan Rahimi GitHub Stats" />
+
+<br />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsanRAHIMI&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+
+<br />
+
+<img src="https://github-profile-trophy.vercel.app/?username=EsanRAHIMI&theme=flat&no-frame=true&margin-w=10&row=1&column=6" alt="GitHub Trophies" />
+
+</div>
+
+---
+
+## What I Am Building Toward
+
+I believe the next generation of software will not be only applications, dashboards, or chatbots.
+
+It will be made of **coordinated AI systems** that can understand context, use tools, collaborate with humans, respect approval boundaries, and help individuals and organizations operate with more intelligence.
+
+My long-term direction is to build practical infrastructure for:
+
+* Human-AI collaboration
+* Organizational AI agents
+* AI-assisted learning systems
+* Business process automation
+* Personal AI operating layers
+* Safer and more accountable agentic workflows
+
+---
+
+## Contact
+
+<div align="center">
+
+For collaboration, AI projects, research discussions, or business inquiries:
+
+<br />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ehsanrahimi)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ehsanrahimi@live.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/EsanRAHIMI)
+
+<br />
+
+**Dubai, United Arab Emirates**
+
+</div>
+
+---
+
+<div align="center">
+
+> Building AI systems that are useful, understandable, and close to real-world work.
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=EsanRAHIMI&style=flat-square&color=111111" alt="Profile Views" />
+
+<br />
+<br />
+
+<sub>Last updated: June 2026</sub>
+
+</div>
