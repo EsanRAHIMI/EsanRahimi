@@ -175,7 +175,7 @@ This project represents my work with Team_152 during the AAAI 2025 Hackathon, wh
 **Repositories:**
 
 * [AAAI-2025-Hackathon/team_152](https://github.com/AAAI-2025-Hackathon/team_152)
-* [Annual AAAI Conference on Artificial Intelligence]([https://github.com/EsanRAHIMI/AAAI2025Hackathon](https://aaai.org/conference/aaai/aaai-25/hackathon/))
+* [Annual AAAI Conference on Artificial Intelligence](https://aaai.org/conference/aaai/aaai-25/hackathon)
 
 ---
 
